@@ -34,4 +34,20 @@ jspm_packages
 .npm
 
 # Optional REPL history
-.node_repl_history 
+.node_repl_history
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

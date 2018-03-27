@@ -1,3 +1,5 @@
+# TS fork
+Downgraded underlying adal-angular package to 1.0.15 in order to avoid problem of callBackMappedToRenewStates having been made private.
 # adal-angular5
 ![build status](https://travis-ci.org/grumar/adal-angular5.svg?branch=master)
 
